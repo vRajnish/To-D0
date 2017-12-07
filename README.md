@@ -7,3 +7,4 @@ A Service Worker had a code of :
   Activate the Service Worker and
   Fetch the response from cache if it is available.
 
+![screenshot 26](https://user-images.githubusercontent.com/18057867/33737295-9cb6f4be-dbbb-11e7-8ab6-fb007e7b3a29.png)
