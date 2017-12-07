@@ -34,7 +34,7 @@ var app=(function(){
     }
   }
 
-  todoForm.addEventListener('submit', function() {
+  todoForm.addEventListener('submit',function() {
     displayNotification();
   });
 
