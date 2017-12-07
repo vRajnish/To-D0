@@ -22,7 +22,7 @@ var app=(function(){
 		  navigator.serviceWorker.getRegistration().then(function(reg) {
 		    var options = {
 		      body: 'New Data Added In ToDo List',
-		      icon: '../img/todo.png',
+		      icon: '../todo.png',
 		      vibrate: [100, 50, 100],
 		      data: {
 		        dateOfArrival: Date.now(),
