@@ -17,7 +17,7 @@ self.addEventListener('install', function(event) {
         './favicon.ico',
         './manifest.json',
         './img/icon-60.png',
-        './img/todo.png',
+        './todo.png',
         './css/bootstrap.css',
         './js/todo-list.js'
       ]);
