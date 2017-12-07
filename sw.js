@@ -9,17 +9,17 @@ self.addEventListener('install', function(event) {
 
       
       return cache.addAll([
-        '/',
-        'index.html',
-        'js/app.js',
-        'js/jquery.js',
-        'css/style.css',
-        'favicon.ico',
-        'manifest.json',
-        'img/icon-60.png',
-        'img/todo.png',
-        'css/bootstrap.css',
-        'js/todo-list.js'
+        './',
+        './index.html',
+        './js/app.js',
+        './js/jquery.js',
+        './css/style.css',
+        './favicon.ico',
+        './manifest.json',
+        './img/icon-60.png',
+        './img/todo.png',
+        './css/bootstrap.css',
+        './js/todo-list.js'
       ]);
     })
   );
